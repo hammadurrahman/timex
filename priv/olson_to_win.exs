@@ -176,6 +176,7 @@
   { "America/Santo_Domingo", "SA Western Standard Time" },
   { "America/Sao_Paulo", "E. South America Standard Time" },
   { "America/Scoresbysund", "Azores Standard Time" },
+  { "Africa/Mogadishu", "E. Africa Standard Time" },
   { "America/Shiprock", "Mountain Standard Time" },
   { "America/Sitka", "Alaskan Standard Time" },
   { "America/St_Barthelemy", "SA Western Standard Time" },
